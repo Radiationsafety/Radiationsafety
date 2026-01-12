@@ -1,16 +1,25 @@
-## Hi there 👋
+Konstantin Chizhov
+Senior Researcher | Radiation protection | AI&ML
 
-<!--
-**Radiationsafety/Radiationsafety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Research & Expertise
+- Radiation Dosimetry
+- Mathematical modelling
+- Inverse problems
+- Machine learning & Neural networks
+- Explainable & Interpretable AI (XAI)
 
-Here are some ideas to get you started:
+⚙️ Technical Stack
+Languages: Python, R, Mathematica
+Data Science & ML Frameworks: Pandas NumPy Scikit-learn XGBoost LightGBM CatBoost PyTorch, TensorFlow, Keras, Scikit-learn
+Visualization & Analysis: Matplotlib Plotly Seaborn
+XAI: SHAP, LIME,
+Data & MLOps: SQL, Docker
+Research Tools: LaTeX Overleaf
+Development Tools: Jupyter Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 GitHub Projects
+Python package for neutron spectrum unfolding from measurements obtained with Bonner Sphere Spectrometer (BSS)
+
+🎓 Publications
+https://scholar.google.com/citations?user=CtXdf28AAAAJ&hl=en
+https://orcid.org/0000-0003-1591-4289
